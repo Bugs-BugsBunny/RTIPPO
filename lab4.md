@@ -1,16 +1,16 @@
 # Лабораторная работа №4 Системные диаграммы взаимодействий
 
 ## Войти в игру
-(images/lab2-1.png)
+![](images/lab4-1.png)
 
 ## Ввести количество раундов
 
-(images/lab4-2.png)
+![](images/lab4-2.png)
 
 ## Бросить кости
 
-(images/lab4-3.png)
+![](images/lab4-3.png)
 
 ## Узнать очки
 
-(images/lab4-4.png)
+![](images/lab4-4.png)
