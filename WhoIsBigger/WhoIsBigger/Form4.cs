@@ -88,7 +88,7 @@ namespace WhoIsBigger
             timer1.Tick += timer1_Tick;
             pictureBox1.Visible = true;
             ImageAnimator.Animate(pictureBox1.Image, OnFrameChanged);
-            timer1.Interval = 1000; // 2 секунды
+            timer1.Interval = 2000; // 2 секунды
             timer1.Start();// Запуск гифки
 
 
